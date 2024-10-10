@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1c7f896f2c0112107f4492d06550895f" label="Events" max_length="40" name="x_snc_event_tracke_events" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Event" max_length="60" name="event" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

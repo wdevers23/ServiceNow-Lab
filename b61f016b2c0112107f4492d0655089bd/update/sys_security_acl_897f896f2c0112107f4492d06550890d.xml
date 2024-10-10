@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_snc_event_tracke_events</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-10 20:27:30</sys_created_on>
+        <sys_id>897f896f2c0112107f4492d06550890d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_event_tracke_events</sys_name>
+        <sys_package display_value="Event Tracker" source="x_snc_event_tracke">b61f016b2c0112107f4492d0655089bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Tracker">b61f016b2c0112107f4492d0655089bd</sys_scope>
+        <sys_update_name>sys_security_acl_897f896f2c0112107f4492d06550890d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-10 20:27:30</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
